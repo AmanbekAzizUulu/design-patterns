@@ -1,6 +1,6 @@
-package creational_patterns.factory.abstract_entities;
+package creational_patterns.factory_example_2.abstract_entities;
 
-import creational_patterns.factory.entities.enums.SwordType;
+import creational_patterns.factory_example_2.entities.enums.SwordType;
 
 public abstract class Sword {
 	protected final SwordType swordType;

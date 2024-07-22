@@ -1,7 +1,7 @@
-package creational_patterns.factory.entities.product;
+package creational_patterns.factory_example_2.entities.product;
 
-import creational_patterns.factory.abstract_entities.Sword;
-import creational_patterns.factory.entities.enums.SwordType;
+import creational_patterns.factory_example_2.abstract_entities.Sword;
+import creational_patterns.factory_example_2.entities.enums.SwordType;
 
 public class JapaneseSword extends Sword{
 
